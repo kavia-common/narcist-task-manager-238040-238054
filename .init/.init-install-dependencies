@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/narcist-task-manager-238040-238054/narcist_frontend"
+}
